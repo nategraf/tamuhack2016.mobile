@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="144705363658492"
+    token="9016759560569098937"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="721" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="137" />
+    <task
+        name="verifier"
+        duration="46" />
+
+    <artifact
+        location="/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="142922614814103"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="144705363658492"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

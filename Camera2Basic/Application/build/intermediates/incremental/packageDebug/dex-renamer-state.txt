@@ -1,0 +1,7 @@
+#Sat Oct 01 15:25:11 CDT 2016
+base.0=/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a81c91f80620dc8a647ae9d57bd82e899e8385b8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8544d7e951241e54201c2cf6ff37aeb16b73635b/classes.dex
+base.1=/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8544d7e951241e54201c2cf6ff37aeb16b73635b
+file.0=/Users/jak3779/AAA_Projects/Research_Jasmine/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a81c91f80620dc8a647ae9d57bd82e899e8385b8/classes.dex
